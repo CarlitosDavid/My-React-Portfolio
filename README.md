@@ -1,5 +1,8 @@
 # My-React-Portfolio
 
+    This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+    [React documentation](https://reactjs.org/).
+
 # User-Story
 
 ```md
@@ -12,3 +15,10 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 npx create-react-app .
 npm add node-sass
+make sure you are in the react-portfolio directory.
+npm start to run application
+
+# issues
+
+    screenshot: https://github.com/CarlitosDavid/My-React-Portfolio/issues/1
+    application is not complete, turning in due to short time frame.
