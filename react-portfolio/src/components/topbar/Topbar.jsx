@@ -20,7 +20,14 @@ export default function Topbar() {
             </div>
       
           <div className="right">
-            right side
+            <div className="nav">
+              <span className="line1"><a href="#aboutme">About Me</a></span>
+              <br></br>
+              <span className="line2"><a href="#works">My Work</a></span>
+              <br></br>
+              <span className="line3"><a href="#contact">Contacts</a></span>
+
+              </div>
             </div>
         </div>
       
